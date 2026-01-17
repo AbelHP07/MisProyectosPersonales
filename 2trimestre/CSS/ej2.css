@@ -1,0 +1,29 @@
+p {
+
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-size: 20px;
+
+}
+
+.er {
+
+color: red;
+
+}
+
+.num {
+
+color: green;
+
+}
+
+body {
+    background: linear-gradient(to top, blue, green);
+    background-repeat: no-repeat;
+    color:orange;
+}
+
+html, body {
+    height: 100%;      /* Ocupa el 100% de la altura de la ventana */
+    /*margin: 0;         Quitar márgenes por defecto */
+    font-size: 20px;
+}
