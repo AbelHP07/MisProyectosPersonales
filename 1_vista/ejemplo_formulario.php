@@ -7,11 +7,11 @@
 <body>
 
     <h2>Ejemplo con nombre y edad</h2>
-    <form action="../2_controlador/ej_procesar.php" method="post">
+    <form action="../2_controlador/ejemplo_procesar.php" method="post">
         <p><label for="nom">Nombre: </label>
-        <input type="text" name="nombre" id="nom" placeholder="Escribe aqu&iacute"></p>
+        <input type="text" name="nombre" id="nom" placeholder="Escribe aqu&iacute;"></p>
         <label for="ed">Edad: </label>
-        <input type="text" name="edad" id="ed" placeholder="Escribe aqu&iacute"></p>
+        <input type="text" name="edad" id="ed" placeholder="Escribe aqu&iacute;"></p>
         <button>Enviar datos</button>
     </form>
 
@@ -37,4 +37,5 @@
     }
 ?>
 </body>
+
 </html>
